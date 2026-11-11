@@ -17,6 +17,6 @@ A lightweight desktop client for the [Audius](https://audius.co) music network, 
 ## Tech Stack
 
 - UI: JetBrains Compose for Desktop (Material 3) + Coil 3 for artwork.
-- Audio Engine: Judio (JavaX Sound / JLayer MP3 streaming).
+- Audio Engine: [Judio](https://github.com/sina-rz/judio).
 - Networking: Ktor Client (Java engine) talking directly to decentralized Audius discovery/content nodes.
 - State Management: Kotlin Coroutines (StateFlow / SharedFlow).
