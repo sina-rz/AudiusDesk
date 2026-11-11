@@ -3,8 +3,8 @@
 A lightweight desktop client for the [Audius](https://audius.co) music network, built with Kotlin and Jetpack Compose for Desktop.
 
 <div style="display:flex; gap:12px; overflow-x:auto;">
-<img src="screenshots/Screenshot%202026-10-15%20184631.png" width="500"/>
-<img src="screenshots/Screenshot%202026-10-15%20184739.png" width="500"/>
+<img src="screenshots/Screenshot%202026-10-15%20184631.png" width="550"/>
+<img src="screenshots/Screenshot%202026-10-15%20184739.png" width="550"/>
 </div>
 
 ## Features
